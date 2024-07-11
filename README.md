@@ -1,1 +1,2 @@
-# sucide-rate-analysis
+# Suicide-rate-project
+Mini project
